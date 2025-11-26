@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
+    <h1>👋 Merhaba! Ben <strong>Ferdi Koca</strong></h1>
+    <h3>🚀 .NET Core Backend Developer | CQRS | Azure DevOps | Python & AI Learner</h3>
+    <br/>
 
-<!--
-**ferdikocaa/ferdikocaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   <p>
+        Yeni projeler, işbirlikleri ve öğrenme fırsatlarına her zaman açığım!
+    </p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Beni Tanıyın
+
+- 💼 Şu anda **.NET Core Backend Developer** olarak çalışıyorum.
+- 🔭 Odaklandığım konular: **Entity Framework Core**, **CQRS**, **Onion Architecture**, **MediatR**.
+- 🚀 Azure DevOps üzerinde **CI/CD**, pipeline yönetimi ve branch bazlı deployment süreçleri geliştiriyorum.
+- 💬 Yazılım, kariyer, mimari ve proje konularında iletişime açığım.
+
+---
+
+## 🛠️ Kullandığım Teknolojiler ve Araçlar
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ef,git,github,postman,azure,py,html,css,js,bootstrap,docker,vscode&theme=dark" />
+</div>
