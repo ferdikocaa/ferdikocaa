@@ -12,15 +12,15 @@
 
 ## 🌟 Beni Tanıyın
 
-- 💼 Şu anda **.NET Core Backend Developer** olarak çalışıyorum.
-- 🔭 Odaklandığım konular: **Entity Framework Core**, **CQRS**, **Onion Architecture**, **MediatR**.
-- 🚀 Azure DevOps üzerinde **CI/CD**, pipeline yönetimi ve branch bazlı deployment süreçleri geliştiriyorum.
+- 💼 Şu anda **.NET Core Senior Backend Developer** olarak çalışıyorum.
+- 🔭 Odaklandığım konular:   **CQRS**, **Onion Architecture**, **DDD**,   
+- 🚀 Azure DevOps üzerinde **CI/CD** süreçleri ve  artifactler üzerine çalışıyorum. 
 - 💬 Yazılım, kariyer, mimari ve proje konularında iletişime açığım.
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler ve Araçlar
+### 🛠️Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ef,git,github,postman,azure,py,html,css,js,bootstrap,docker,vscode&theme=dark" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,mvc,sql,postgres,redis,elasticsearch,rabbitmq,ef,react,py,js,azuredevops,github" />
+</p>
